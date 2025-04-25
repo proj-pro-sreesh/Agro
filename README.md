@@ -1,4 +1,4 @@
-#🌿 AI-Powered Plant Disease Detection Web App
+# 🌿 AI-Powered Plant Disease Detection Web App
 
 A web-based application that allows users to detect plant diseases through image uploads. The app uses a trained machine learning model to identify diseases and leverages Gemini AI to generate detailed content about the prediction.
 
