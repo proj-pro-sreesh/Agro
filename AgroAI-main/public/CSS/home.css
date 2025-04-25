@@ -1,0 +1,35 @@
+
+.applybg {
+    background-image: url('/images/bg-static.jpg');
+    background-repeat: no-repeat;
+    background-attachment: static;
+    background-size: 100% 100%;
+
+    padding-top: 5rem;
+    padding-bottom: 16rem;
+    padding-left: .5rem;
+    padding-right: .5rem;
+  }
+.extendtopb{
+    margin-top: 5rem;
+    margin-bottom: 16rem;
+    margin-left: .25rem;
+    margin-right: .25rem;
+}
+.border-round{
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 30px;
+}
+.text{
+    font-size: 17px;
+}
+.fontit{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    font-weight: 500;
+}
+.result{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
